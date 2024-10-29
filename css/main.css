@@ -31,7 +31,7 @@ body {
 .header-logo {
   display: flex;
   align-items: center;
-  margin-left: 140px;
+
   line-height: 40px;
   gap: 20px;
   font-size: 16px;
@@ -43,9 +43,6 @@ body {
   text-decoration: none;
 }
 
-.nav {
-  margin-left: 90px;
-}
 
 .nav .nav-list {
   display: flex;
@@ -65,7 +62,6 @@ body {
 }
 
 .header-btn {
-  margin-left: 450px;
   width: 146px;
   height: 46px;
   border-radius: 30px;
@@ -91,7 +87,6 @@ body {
 }
 
 .main-logo{
-  margin-left: 165px;
   margin-top: 82px;
 }
 
@@ -100,7 +95,6 @@ body {
   width: 852px;
   height: 204px;
   text-align: center;
-  margin-left: 350px;
   margin-top: 70px;
 }
 
@@ -132,7 +126,7 @@ body {
 }
 
 .main-logo2 {
-  margin-left: 839px;
+
   margin-top: 20px;
 }
 
@@ -169,7 +163,6 @@ h5 {
 }
 
 .icon {
-  margin-left: 40px;
   width: 40px;
   height: 40px;
 }
@@ -200,7 +193,7 @@ h5 {
 }
 
 .icon-2 {
-  margin-left: 41px;
+
   width: 41px;
   height: 40px;
 }
@@ -220,7 +213,6 @@ h5 {
 .icon-3 {
   width: 40px;
   height: 40px;
-  margin-left: 40px;
 }
 
 .card-3-p {
