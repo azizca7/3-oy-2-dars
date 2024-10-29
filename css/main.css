@@ -43,7 +43,6 @@ body {
   text-decoration: none;
 }
 
-
 .nav .nav-list {
   display: flex;
   align-items: center;
@@ -86,7 +85,7 @@ body {
   margin: 0 auto;
 }
 
-.main-logo{
+.main-logo {
   margin-top: 82px;
 }
 
@@ -112,9 +111,9 @@ body {
   line-height: 60px;
 }
 
-.main-p2 span{
+.main-p2 span {
   color: #318bfc;
-} 
+}
 
 .main-desc {
   display: inline-block;
@@ -126,7 +125,6 @@ body {
 }
 
 .main-logo2 {
-
   margin-top: 20px;
 }
 
@@ -193,7 +191,6 @@ h5 {
 }
 
 .icon-2 {
-
   width: 41px;
   height: 40px;
 }
@@ -227,7 +224,7 @@ h5 {
   line-height: 40px;
 }
 
-.sign_up  {
+.sign_up {
   width: 1519px;
   height: 439px;
   margin: 0 auto;
@@ -266,7 +263,7 @@ h5 {
   cursor: pointer;
 }
 
-.sign-btn:hover {
+/* .sign-btn:hover {
   transform: scale(1.1);
   background-color: #4194fd;
-}
+} */
